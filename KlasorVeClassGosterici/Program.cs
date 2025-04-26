@@ -19,4 +19,4 @@ namespace KlasorVeClassGosterici
             Application.Run(new Form1());
         }
     }
-}
+} 

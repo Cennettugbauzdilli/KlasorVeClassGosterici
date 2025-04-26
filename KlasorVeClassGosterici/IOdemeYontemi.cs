@@ -11,4 +11,4 @@ namespace KlasorVeClassGosterici
         string Ode(decimal tutar);
     }
 
-}
+} 
